@@ -1,1 +1,2 @@
 # AIS-Vessel-Prediction-Model
+Two machine learning algorithms to track various moving vessels using Automatic Identification System (AIS) data including a vessel’s latitude, longitude, speed over ground, course over ground labeled with time stamps. One model, DBSCAN, is used when we are not given the number of vessels in the dataset. And the other model, Spectral Clustering, is used when we are given the number of vessels.
