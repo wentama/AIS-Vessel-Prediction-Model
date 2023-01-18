@@ -1,1 +1,7 @@
 Dataset used
+
+Round 1 Evaluation: set1 is the training data. And set2noVID is also provided. 
+                    set2 is the testing data.
+
+Final Evaluation: set1 + set2 is the training data. set2noVID + set3noVID provided. 
+                  set3 is the testing data.
